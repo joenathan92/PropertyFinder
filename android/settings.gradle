@@ -1,0 +1,3 @@
+rootProject.name = 'PropertyFinder2'
+
+include ':app'
